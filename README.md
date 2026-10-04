@@ -75,7 +75,7 @@ database.append({"text":document,"embedding":vector})
          config.py-Stores RAG configuration
          loader.py-Loads documents and data
          chunker.py-Splits documents into chunks
-         embeddings.py
+         embeddings.py-Converts text into vectors
          vector_store.py
          retriever.py
          
