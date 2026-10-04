@@ -76,6 +76,6 @@ database.append({"text":document,"embedding":vector})
          loader.py-Loads documents and data
          chunker.py-Splits documents into chunks
          embeddings.py-Converts text into vectors
-         vector_store.py
+         vector_store.py-Manages ChromaDB storage and search
          retriever.py
          
