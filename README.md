@@ -64,4 +64,18 @@ database.append({"text":document,"embedding":vector})
     }
    ]
 
+#USER ASKS A QUESTION
+   question="How long does delivery take in Nairobi"
 
+
+   #PROJECT FOLDER STRUCTURE
+   my_project/
+      rag/
+         __init__.py
+         config.py
+         loader.py
+         chunker.py
+         embeddings.py
+         vector_store.py
+         retriever.py
+         
