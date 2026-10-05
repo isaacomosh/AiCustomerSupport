@@ -64,7 +64,7 @@ database.append({"text":document,"embedding":vector})
     }
    ]
 
-#USER ASKS A QUESTION
+#USER ASKS A QUESTIONs
    question="How long does delivery take in Nairobi"
 
 
