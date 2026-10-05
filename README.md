@@ -72,7 +72,7 @@ database.append({"text":document,"embedding":vector})
    my_project/
       rag/
          __init__.py-makes rag a Python package
-         config.py-Stores RAG configuration
+         config.py-Stores RAG configuration and
          loader.py-Loads documents and data
          chunker.py-Splits documents into chunks
          embeddings.py-Converts text into vectors
