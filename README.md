@@ -68,7 +68,7 @@ database.append({"text":document,"embedding":vector})
    question="How long does delivery take in Nairobi"
 
 
-   #PROJECT FOLDER STRUCTURE
+   #PROJECT FOLDER STRUCTUREs
    my_project/
       rag/
          __init__.py-makes rag a Python package
