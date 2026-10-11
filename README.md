@@ -50,6 +50,9 @@ database.append({"text":document,"embedding":vector})
      [
     {
         "text": "Customers can return products...",
+
+
+        
         "embedding": [...]
     },
 
