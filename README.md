@@ -80,5 +80,5 @@ database.append({"text":document,"embedding":vector})
          chunker.py-Splits documents into chunks
          embeddings.py-Converts text into vectors
          vector_store.py-Manages ChromaDB storage and search
-         retriever.py-Finds relevant chunks
+         retriever.py-Finds relevant ch
          
