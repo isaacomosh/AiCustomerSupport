@@ -74,7 +74,7 @@ database.append({"text":document,"embedding":vector})
    #PROJECT FOLDER STRUCTUREs
    my_project/
       rag/
-         __init__.py-makes rag a Python package
+         __init__.py-makes rag a Python packaget
          config.py-Stores RAG configuration and
          loader.py-Loads documents and data
          chunker.py-Splits documents into chunks
