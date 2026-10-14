@@ -7,7 +7,7 @@ AI Customer Support Agent integrated into an e-commerce application. The system 
   first convert the pdf into chunks 
 
   make vector embeddings stored in vetor database such as chroma db
-  Embedding -text that is converted into a list of number\s representing its meanin
+  Embedding -text that is converted into a list of number\s representing its meaning
     For example :
           "Delivery within Nairobi takes 1 to 2 business days."
           becomes::::====>
