@@ -53,7 +53,7 @@ database.append({"text":document,"embedding":vector})
 
 
         
-        "embedding": [...]
+        ''"embedding": [...]
     },
 
     {
