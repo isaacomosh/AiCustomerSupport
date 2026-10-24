@@ -68,7 +68,7 @@ database.append({"text":document,"embedding":vector})
    ]
 
 #USER ASKS A QUESTIONs
-   question="How long does delivery take in Nairobi"
+   question="How long does delivery take in Nairobi".
 
 
    #PROJECT FOLDER STRUCTUREs
