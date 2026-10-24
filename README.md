@@ -67,7 +67,8 @@ database.append({"text":document,"embedding":vector})
     }
    ]
 
-#USER ASKS A QUESTIONs
+#USER ASKS A QUESTIONs /Query processing
+When  user asks a question the retrieval mechanism springs into action:
    question="How long does delivery take in Nairobi".
 
 
