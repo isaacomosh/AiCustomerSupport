@@ -69,7 +69,9 @@ database.append({"text":document,"embedding":vector})
 
 #USER ASKS A QUESTIONs /Query processing
 When  user asks a question the retrieval mechanism springs into action:
-     User Query Embedding :The user's input query is passed through the same embedding model used during data ingestion.
+     User Query Embedding :The user's input query is passed through the same embedding model used during data ingestion. This transforms the natural language question into a vector with the same dimensions as the stored document vectors.
+     Similarity Search and Retrieval
+     The system now compares the query vector against all the document chunk vectors in the vector database to find the closest matches.
 
 
 
