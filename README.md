@@ -49,7 +49,7 @@ database.append({"text":document,"embedding":vector})
      The database looks like this:
      [
     {
-        "text": "Customers can return products...",
+        "text": "Customers add can return products...",
 
 
         
