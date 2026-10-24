@@ -69,6 +69,13 @@ database.append({"text":document,"embedding":vector})
 
 #USER ASKS A QUESTIONs /Query processing
 When  user asks a question the retrieval mechanism springs into action:
+     User Query Embedding :The user's input query is passed through the same embedding model used during data ingestion.
+
+
+
+
+
+
    question="How long does delivery take in Nairobi".
 
 
