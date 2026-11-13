@@ -6,7 +6,7 @@ AI Customer Support Agent integrated into an e-commerce application. The system 
 #How the Retrieval Sytem works 
   first convert the pdf into chunks 
 and
-  make vector embeddings stored in vetor database such as chroma d
+  make vector embeddings stored in vetor database such as chroma d.
   Embedding -text that is converted into a list of number\s representing its meaning
     For example :
           "Delivery within Nairobi takes 1 to 2 business days."
